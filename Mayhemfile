@@ -1,0 +1,5 @@
+project: usrsctp
+target: fuzzer_listen
+
+cmds:
+  - cmd: /fuzzer_listen
